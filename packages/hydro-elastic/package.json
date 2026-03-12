@@ -10,6 +10,6 @@
     "license": "AGPL-3.0-or-later",
     "preferUnplugged": true,
     "dependencies": {
-        "@elastic/elasticsearch": "^8.0.0"
+        "@elastic/elasticsearch": "^9.3.4"
     }
 }
