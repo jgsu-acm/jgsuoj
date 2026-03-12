@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         submodules: recursive
         fetch-depth: 2
@@ -89,7 +89,7 @@ jobs:
   #   if: ${{ github.event_name == 'push' }}
   #   steps:
   #   - name: Check out
-  #     uses: actions/checkout@v4
+  #     uses: actions/checkout@v6
   #     with:
   #       submodules: recursive
   #   - name: Log in to GitHub Docker Registry
@@ -115,7 +115,7 @@ jobs:
   #   runs-on: ubuntu-latest
   #   steps:
   #   - name: Check out
-  #     uses: actions/checkout@v4
+  #     uses: actions/checkout@v6
   #     with:
   #       submodules: recursive
   #   - name: Log in to GitHub Docker Registry
