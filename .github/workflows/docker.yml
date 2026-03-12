@@ -65,7 +65,7 @@ jobs:
           
 
       - name: Build and push Docker image Backend
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v7
         with:
           context: .
           push: true
@@ -76,7 +76,7 @@ jobs:
           cache-to: type=gha, scope=${{ github.workflow }}
 
       - name: Build and push Docker image Judge
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@v7
         with:
           context: .
           push: true
