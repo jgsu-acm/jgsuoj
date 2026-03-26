@@ -12326,7 +12326,7 @@ __metadata:
     mongodb: "npm:^5.9.2"
     mongodb-uri: "npm:^0.9.7"
     nanoid: "npm:^5.0.6"
-    nodemailer: "npm:^6.9.13"
+    nodemailer: "npm:^8.0.4"
     notp: "npm:^2.0.3"
     p-queue: "npm:^8.0.1"
     path-to-regexp: "npm:^6.2.1"
@@ -15406,10 +15406,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:^6.9.13":
-  version: 6.9.13
-  resolution: "nodemailer@npm:6.9.13"
-  checksum: 4d6899f45abb7760a7d3b4d1046de7e08e80a471b84d1f09065a25941ded482e7f9877be248550e681e0270383cb9299f6caded507cbc0e917341bb137cc94a4
+"nodemailer@npm:^8.0.4":
+  version: 8.0.4
+  resolution: "nodemailer@npm:8.0.4"
+  checksum: 5fb6fa72645b541c18b84b861de46f4740449e1d7c987b4d9ef715d815d613f93262225bc319e217df6215d6f123efadb9a412dcf937fe0a41cbecf279dfb2a0
   languageName: node
   linkType: hard
 
