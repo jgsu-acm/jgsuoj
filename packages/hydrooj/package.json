@@ -46,7 +46,7 @@
         "nodemailer": "^6.9.13",
         "notp": "^2.0.3",
         "p-queue": "^8.0.1",
-        "path-to-regexp": "^6.2.1",
+        "path-to-regexp": "^6.3.0",
         "sanitize-filename": "^1.6.3",
         "saslprep": "^1.0.3",
         "schemastery": "^3.14.5",
