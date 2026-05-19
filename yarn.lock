@@ -3033,7 +3033,7 @@ __metadata:
     semver: "npm:^7.6.0"
     shell-quote: "npm:^1.8.1"
     superagent: "npm:^8.1.2"
-    ws: "npm:^8.16.0"
+    ws: "npm:^8.20.1"
   bin:
     hydrojudge: bin/hydrojudge.js
   languageName: unknown
@@ -12338,7 +12338,7 @@ __metadata:
     superagent: "npm:^8.1.2"
     tar: "npm:^6.2.1"
     thirty-two: "npm:^1.0.2"
-    ws: "npm:^8.16.0"
+    ws: "npm:^8.20.1"
   bin:
     hydrooj: bin/hydrooj.js
   languageName: unknown
@@ -21058,6 +21058,21 @@ __metadata:
     utf-8-validate:
       optional: true
   checksum: a7783bb421c648b1e622b423409cb2a58ac5839521d2f689e84bc9dc41d59379c692dd405b15a997ea1d4c0c2e5314ad707332d0c558f15232d2bc07c0b4618a
+  languageName: node
+  linkType: hard
+
+"ws@npm:^8.20.1":
+  version: 8.20.1
+  resolution: "ws@npm:8.20.1"
+  peerDependencies:
+    bufferutil: ^4.0.1
+    utf-8-validate: ">=5.0.2"
+  peerDependenciesMeta:
+    bufferutil:
+      optional: true
+    utf-8-validate:
+      optional: true
+  checksum: ce162433218399cdedeb76fd33363d4d86a7d910058d4e3c679dce08cea65d6da6b39f11baa4d7808d024cf46ed88f6a05c17611621aaad8fc5e62edacc30c5d
   languageName: node
   linkType: hard
 
